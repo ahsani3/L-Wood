@@ -611,6 +611,7 @@ input.input-search
 
 .input-custome
 {
+	width: 100%;
 	padding: 8px 12px;
 	background-color: var(--white);
 	outline: none;
@@ -646,6 +647,28 @@ img.output-img[src] {
 	border: 1.5px solid var(--line-color);
 	display: flex;
 	align-items: center;
+}
+
+.contain-btn-add
+{
+	width: 100%;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.btn-custome
+{
+	padding: 8px 16px;
+	border-radius: 8px;
+	font-weight: 500;
+	font-size: 16px;
+	border: none;
+}
+
+.btn-main
+{
+	background-color: var(--main-color);
+	color: var(--white);
 }
 
 @media (max-width: 767px)

@@ -26,6 +26,16 @@ const inputHandler = function(e) {
 source.addEventListener('input', inputHandler);
 source.addEventListener('propertychange', inputHandler);
 
+function removeImg(img,input) {
+	document.getElementById(img).removeAttribute('src');
+	document.getElementById(input).value = null;
+	
+}
+
+function preview(e,img) {
+	document.getElementById(img).src = window.URL.createObjectURL(e.files[0]);
+}
+
 // var string = document.querySelector('.title-truncate');
 // var limit = 12;
 
