@@ -1,0 +1,130 @@
+.icon-home
+{
+	width: 24px;
+	height: 24px;
+	background-image: url(../icon/home.svg);
+}
+
+.icon-home.active
+{
+	background-image: url(../icon/home-active.svg);
+}
+
+.icon-activity
+{
+	width: 24px;
+	height: 24px;
+	background-image: url(../icon/activity.svg);
+}
+
+.icon-buy
+{
+	width: 24px;
+	height: 24px;
+	background-image: url(../icon/buy.svg);
+}
+
+.icon-buy.active
+{
+	background-image: url(../icon/buy-active.svg);
+}
+
+.icon-category
+{
+	width: 24px;
+	height: 24px;
+	background-image: url(../icon/category.svg);
+}
+
+.icon-delete
+{
+	width: 24px;
+	height: 24px;
+	background-image: url(../icon/delete.svg);
+}
+
+.icon-edit
+{
+	width: 24px;
+	height: 24px;
+	background-image: url(../icon/edit.svg);
+}
+
+.icon-excel
+{
+	background-repeat: no-repeat;
+	width: 24px;
+	height: 24px;
+	background-image: url(../icon/excel.svg);
+}
+
+.icon-list-card
+{
+	width: 24px;
+	height: 24px;
+	background-image: url(../icon/list-card.svg);
+}
+
+.icon-list-product
+{
+	width: 24px;
+	height: 24px;
+	background-image: url(../icon/list-product.svg);
+}
+
+.icon-logout
+{
+	width: 24px;
+	height: 24px;
+	background-image: url(../icon/logout.svg);
+}
+
+.icon-menu
+{
+	width: 24px;
+	height: 24px;
+	background-image: url(../icon/menu.svg);
+}
+
+.icon-notification
+{
+	width: 24px;
+	height: 24px;
+	background-image: url(../icon/notification.svg);
+}
+
+.icon-pdf
+{
+	background-repeat: no-repeat;
+	width: 24px;
+	height: 24px;
+	background-image: url(../icon/pdf.svg);
+}
+
+.icon-search
+{
+	width: 20px;
+	height: 20px;
+	background-image: url(../icon/search.svg);
+}
+
+.icon-setting
+{
+	width: 24px;
+	height: 24px;
+	background-image: url(../icon/setting.svg);
+}
+
+.icon-star
+{
+	width: 14px;
+	height: 14px;
+	background-image: url(../icon/star.svg);
+}
+
+.icon-ticket
+{
+	width: 24px;
+	height: 24px;
+	background-image: url(../icon/ticket.svg);
+}
